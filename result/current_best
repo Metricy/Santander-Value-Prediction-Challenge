@@ -1,0 +1,120 @@
+------------------------------------------------------------08/08 00:31------------------------------------------------------------
+paradox_cols + new_col_last_2-11 +13 +15-18 +20-23 +25 +28 +31 +36-37 +42 +49 +w16 +w4					       3582 3679
+Processing lag 36
+Leak values found in train 3874
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.5783220780628111
+
+    Value |   colsample_bytree |   feature_criterion |   learning_rate |   min_child_weight |   min_split_gain |   num_leaves |   reg_alpha |   reg_lambda |   subsample |
+ -0.51072 |             0.9960 |              0.7925 |          0.0613 |             0.7665 |           0.0486 |      28.0000 |      0.7855 |       0.6919 |      0.3260 |
+
+new_train
+best_lag = 36
+OOF SCORE :  0.512738
+OOF SCORE with LEAK :  0.510720
+LB: 0.51
+best_lag = 37
+OOF SCORE :  0.511439
+OOF SCORE with LEAK :  0.509308
+
+original train
+best_lag = 36
+OOF SCORE :  0.516708
+OOF SCORE with LEAK :  0.510376
+LB: 0.52
+best_lag = 37
+OOF SCORE :  0.516708
+OOF SCORE with LEAK :  0.510376
+
+
+------------------------------------------------------------08/08 20:22------------------------------------------------------------
+paradox_cols + new_col_last_2-11 +13 +15-18 +20-23 +25 +28 +31 +36-37 +42 +49 +w16 +w4					       3582 3679
+Processing lag 36
+Leak values found in train 3874
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.5783220780628111
+
+{'max_val': -0.5079484083787439, 'max_params': {'num_leaves': 12.024701808594909, 'subsample': 0.1, 'colsample_bytree': 0.9999998944771263, 'min_split_gain': 1e-05, 'reg_alpha': 2.926647409600368, 'reg_lambda': 0.27039842736589326, 'min_child_weight': 0.0, 'learning_rate': 0.005, 'feature_criterion': 0.7907}}
+
+new_train
+Value = OOF 
+best_lag = 37
+OOF SCORE :  0.506523
+OOF SCORE with LEAK :  0.505451
+LB = 0.51
+
+
+------------------------------------------------------------08/12 05:02------------------------------------------------------------
+paradox_cols + new_col_last_2-11 +13 +15-18 +20-23 +25 +28 +31 +36-37 +42 +49 +w16 +w4 +w11 +w46 +w55 +w35 +w40 +w31 +w30 +w58
+Processing lag 36
+Leak values found in train 3886
+Leak values found in test 7880
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.5638486625105787
+
+{'max_val': -0.5079484083787439, 'max_params': {'num_leaves': 12.024701808594909, 'subsample': 0.1, 'colsample_bytree': 0.9999998944771263, 'min_split_gain': 1e-05, 'reg_alpha': 2.926647409600368, 'reg_lambda': 0.27039842736589326, 'min_child_weight': 0.0, 'learning_rate': 0.1, 'feature_criterion': 0.7907}}
+
+new_train
+Value = OOF 
+best_lag = 37
+OOF SCORE :  0.498906
+OOF SCORE with LEAK :  0.497720
+LB = 0.51
+
+
+------------------------------------------------------------08/13 18:32------------------------------------------------------------
+all modified 96
+Processing lag 36
+Leak values found in train 3886
+Leak values found in test 7856
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.5638486625105787
+
+{'max_val': -0.5079484083787439, 'max_params': {'num_leaves': 12.024701808594909, 'subsample': 0.1, 'colsample_bytree': 0.9999998944771263, 'min_split_gain': 1e-05, 'reg_alpha': 2.926647409600368, 'reg_lambda': 0.27039842736589326, 'min_child_weight': 0.0, 'learning_rate': 0.1, 'feature_criterion': 0.7907}}
+
+new_train
+Value = OOF 
+best_lag = 37
+OOF SCORE :  0.498532
+OOF SCORE with LEAK :  0.497143
+LB = 0.50
+
+
+------------------------------------------------------------08/13 18:32------------------------------------------------------------
+all modified 111
+Processing lag 36
+Leak values found in train 3886
+Leak values found in test 7854
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.5638486625105787
+
+{'max_val': -0.5079484083787439, 'max_params': {'num_leaves': 12.024701808594909, 'subsample': 0.1, 'colsample_bytree': 0.9999998944771263, 'min_split_gain': 1e-05, 'reg_alpha': 2.926647409600368, 'reg_lambda': 0.27039842736589326, 'min_child_weight': 0.0, 'learning_rate': 0.1, 'feature_criterion': 0.7907}}
+
+new_train
+Value = OOF 
+best_lag = 36
+OOF SCORE :  0.497047
+OOF SCORE with LEAK :  0.495945
+LB = 0.50
+
+------------------------------------------------------------08/18 23:53------------------------------------------------------------
+all modified 114
+new_feature
+feature_criterion = 0.62509
+
+{'boosting_type': 'gbdt', 'colsample_bytree': 0.9999998944771263, 'learning_rate': 0.1, 'max_depth': -1, 'metric': 'l2', 'min_child_weight': 0.0, 'min_split_gain': 1e-05, 'num_leaves': 12, 'objective': 'regression', 'reg_alpha': 2.926647409600368, 'reg_lambda': 0.27039842736589326, 'seed': 3, 'subsample': 0.1, 'verbose': -1}
+
+new_train
+Value = OOF 
+best_lag = 38
+OOF SCORE :  0.496504
+OOF SCORE with LEAK :  0.495284
+LB = 0.50
+
+
+
+
+
+
+
+

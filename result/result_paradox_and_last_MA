@@ -1,0 +1,300 @@
+----
+new_col_last_26
+Processing lag 36
+Leak values found in train 3610
+% of correct leaks values in train  0.9994459833795014
+Score (filled with nonzero mean) 0.7024005257634259
+
+new_col_last_26 + paradox_cols
+Processing lag 36
+Leak values found in train 3674
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.6766933942689908
+
+----
+new_col_last_27
+Processing lag 36
+Leak values found in train 3615
+% of correct leaks values in train  0.9994467496542185
+Score (filled with nonzero mean) 0.7046271819627288
+
+new_col_last_27 + paradox_cols
+Processing lag 36
+Leak values found in train -3700-
+% of correct leaks values in train  0.9997297297297297
+Score (filled with nonzero mean) 0.6712068167746825
+
+----
+new_col_last_28
+Processing lag 36
+Leak values found in train 3599
+% of correct leaks values in train  0.999722145040289
+Score (filled with nonzero mean) 0.7047985463926666
+
+new_col_last_28 + paradox_cols
+Processing lag 36
+Leak values found in train -3692-
+% of correct leaks values in train  0.9997291440953413
+Score (filled with nonzero mean) 0.6711548117059976
+
+----
+new_col_last_31
+Processing lag 29
+Leak values found in train 3581
+% of correct leaks values in train  0.9994414967886065
+Score (filled with nonzero mean) 0.7122246492237821
+
+new_col_last_31 + paradox_cols
+Processing lag 36
+Leak values found in train -3688-
+% of correct leaks values in train  0.9991865509761388
+Score (filled with nonzero mean) 0.6765209699128483
+
+----
+new_col_last_32
+Processing lag 36
+Leak values found in train 3572
+% of correct leaks values in train  0.9994400895856663
+Score (filled with nonzero mean) 0.7163970979100608
+
+new_col_last_32 + paradox_cols
+Processing lag 36
+Leak values found in train 3678
+% of correct leaks values in train  0.9994562262098967
+Score (filled with nonzero mean) 0.6818739260800359
+
+----
+new_col_last_34
+Processing lag 35
+Leak values found in train 3583
+% of correct leaks values in train  0.9994418085403294
+Score (filled with nonzero mean) 0.7186843219463112
+
+new_col_last_34 + paradox_cols
+Processing lag 35
+Leak values found in train 3676
+% of correct leaks values in train  0.999183895538629
+Score (filled with nonzero mean) 0.6995180878263856
+
+----
+new_col_last_35
+Processing lag 37
+Leak values found in train 3548
+% of correct leaks values in train  0.9991544532130778
+Score (filled with nonzero mean) 0.7298341332987942
+
+new_col_last_35 + paradox_cols
+Processing lag 37
+Leak values found in train 3658
+% of correct leaks values in train  0.9997266265718973
+Score (filled with nonzero mean) 0.6889052465637129
+
+----
+new_col_last_36
+Processing lag 36
+Leak values found in train 3574
+% of correct leaks values in train  0.9994404029099049
+Score (filled with nonzero mean) 0.7179847428282788
+
+new_col_last_36 + paradox_cols
+Processing lag 36
+Leak values found in train 3679
+% of correct leaks values in train  0.9997281870073389
+Score (filled with nonzero mean) 0.6760529682653085
+
+----
+new_col_last_37
+Processing lag 36
+Leak values found in train 3593
+% of correct leaks values in train  0.9997216810464793
+Score (filled with nonzero mean) 0.7047109678170353
+
+new_col_last_37 + paradox_cols
+Processing lag 36
+Leak values found in train -3690-
+% of correct leaks values in train  0.9997289972899729
+Score (filled with nonzero mean) 0.6685922828496703
+
+----
+new_col_last_38
+Processing lag 36
+Leak values found in train 3590
+% of correct leaks values in train  0.9994428969359331
+Score (filled with nonzero mean) 0.7112123897627615
+
+new_col_last_38 + paradox_cols
+Processing lag 36
+Leak values found in train 3693
+% of correct leaks values in train  0.9997292174383969
+Score (filled with nonzero mean) 0.6731124198391396
+
+----
+new_col_last_39
+Processing lag 36
+Leak values found in train 3591
+% of correct leaks values in train  0.9997215260373155
+Score (filled with nonzero mean) 0.7070978462735852
+
+new_col_last_39 + paradox_cols
+Processing lag 36
+Leak values found in train 3692
+% of correct leaks values in train  0.9997291440953413
+Score (filled with nonzero mean) 0.6725504487516851
+
+----
+new_col_last_40
+Processing lag 36
+Leak values found in train 3616
+% of correct leaks values in train  0.9994469026548672
+Score (filled with nonzero mean) 0.7041178475242635
+
+new_col_last_40 + paradox_cols
+Processing lag 36
+Leak values found in train 3704
+% of correct leaks values in train  0.9997300215982722
+Score (filled with nonzero mean) 0.6693682141416397
+
+
+----
+new_col_last_41
+Processing lag 36
+Leak values found in train 3574
+% of correct leaks values in train  0.9997202014549524
+Score (filled with nonzero mean) 0.7109351833190758
+
+new_col_last_41 + paradox_cols
+Processing lag 36
+Leak values found in train 3673
+% of correct leaks values in train  0.9997277429893819
+Score (filled with nonzero mean) 0.6773367877874946
+
+----
+new_col_last_42
+Processing lag 36
+Leak values found in train 3569
+% of correct leaks values in train  0.9994396189408798
+Score (filled with nonzero mean) 0.7168574404967499
+
+new_col_last_42 + paradox_cols
+Processing lag 36
+Leak values found in train 3678
+% of correct leaks values in train  0.9994562262098967
+Score (filled with nonzero mean) 0.6789364636965771
+
+----
+new_col_last_43 
+Processing lag 36
+Leak values found in train 3586
+% of correct leaks values in train  0.9994422755158952
+Score (filled with nonzero mean) 0.7075312078946768
+
+new_col_last_43 + paradox_cols
+Processing lag 36
+Leak values found in train 3673
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.677228124124707
+
+----
+new_col_last_44
+Processing lag 36
+Leak values found in train 3595
+% of correct leaks values in train  0.9994436717663422
+Score (filled with nonzero mean) 0.709398438137827
+
+new_col_last_44 + paradox_cols
+Processing lag 36
+Leak values found in train 3691
+% of correct leaks values in train  0.999729070712544
+Score (filled with nonzero mean) 0.672299759575597
+
+----
+new_col_last_45
+Processing lag 36
+Leak values found in train 3563
+% of correct leaks values in train  0.9994386752736458
+Score (filled with nonzero mean) 0.7198022892030534
+
+new_col_last_45 + paradox_cols
+Processing lag 36
+Leak values found in train 3674
+% of correct leaks values in train  0.9997278170930866
+Score (filled with nonzero mean) 0.6769962088905245
+
+----
+new_col_last_46
+Processing lag 37
+Leak values found in train 3536
+% of correct leaks values in train  1.0
+Score (filled with nonzero mean) 0.7315233218549017
+
+new_col_last_46 + paradox_cols
+Processing lag 37
+Leak values found in train 3647
+% of correct leaks values in train  0.9994516040581299
+Score (filled with nonzero mean) 0.6934794237224118
+
+----
+new_col_last_47
+Processing lag 37
+Leak values found in train 3542
+% of correct leaks values in train  0.9988706945228685
+Score (filled with nonzero mean) 0.7357032090348445
+
+new_col_last_47 + paradox_cols
+Processing lag 37
+Leak values found in train 3649
+% of correct leaks values in train  0.9994519046314059
+Score (filled with nonzero mean) 0.6979489845820372
+
+----
+new_col_last_48
+Processing lag 29
+Leak values found in train 3584
+% of correct leaks values in train  0.9997209821428571
+Score (filled with nonzero mean) 0.704816223193959
+
+new_col_last_48 + paradox_cols
+Processing lag 29
+Leak values found in train 3679
+% of correct leaks values in train  0.9994563740146779
+Score (filled with nonzero mean) 0.670908823964663
+
+----
+new_col_last_49
+Processing lag 29
+Leak values found in train 3627
+% of correct leaks values in train  0.9997242900468707
+Score (filled with nonzero mean) 0.6912643544305082
+
+new_col_last_49 + paradox_cols
+Processing lag 36
+Leak values found in train 3722
+% of correct leaks values in train  0.999462654486835
+Score (filled with nonzero mean) 0.6589715476745586
+
+----
+new_col_last_50
+Processing lag 36
+Leak values found in train 3556
+% of correct leaks values in train  0.999437570303712
+Score (filled with nonzero mean) 0.7220697668635202
+
+new_col_last_50 + paradox_cols
+Processing lag 36
+Leak values found in train 3670
+% of correct leaks values in train  0.9994550408719346
+Score (filled with nonzero mean) 0.6836942986527992
+
+----
+new_col_last_51
+Processing lag 36
+Leak values found in train 3558
+% of correct leaks values in train  0.9991568296795953
+Score (filled with nonzero mean) 0.7217263488708187
+
+new_col_last_51 + paradox_cols
+Processing lag 36
+Leak values found in train 3669
+% of correct leaks values in train  0.9997274461706187
+Score (filled with nonzero mean) 0.6800419387336785
+
